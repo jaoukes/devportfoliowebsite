@@ -11,3 +11,4 @@ Full Stack Web Development  | York University  | Portfolio Website
   Database: PHP & mySQL
 
 ## Attribute
+<a href="https://www.freepik.com/free-photos-vectors/background">Background vector created by freepik - www.freepik.com</a>
