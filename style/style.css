@@ -1,6 +1,12 @@
 /* Global Settings */
 body {
     background-color: #34383d;
+    color: whitesmoke;
+}
+.main {
+    margin: auto;
+    width: 80%;
+    padding-top: 25px;
 }
 
 /* Header Image */
@@ -17,3 +23,9 @@ body {
       height: 25%;
       width: 25%;
   }
+
+/* Quick About */
+.row-about {
+    margin: auto;
+    width: 50%;
+}
